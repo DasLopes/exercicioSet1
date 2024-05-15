@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+D:\estudoTemp\compareTo\.metadata\.plugins\org.eclipse.jdt.core
+2543264435.index
+1865797976.index
+2759025235.index
